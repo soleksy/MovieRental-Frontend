@@ -1,0 +1,31 @@
+.input {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  font-size: 17px;
+  padding-left: 40px;
+  align-items: center;
+  margin: auto;
+  width: 100%;
+
+  padding: 10px;
+}
+.searchbar-button {
+  width: 50px;
+  height: 100px;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-height: 8em;
+  width: 80%;
+}
+
+.text {
+  color: white;
+  padding: 6em;
+  text-align: center;
+}
